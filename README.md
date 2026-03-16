@@ -117,7 +117,7 @@ Add screenshots of your website here to show the UI and design.
 **Ankur Soni**
 
 * GitHub: https://github.com/ankursoniblogger
-* LinkedIn: (Add your LinkedIn profile)
+* LinkedIn: https://www.linkedin.com/in/ankur-soni-blogger
 
 ---
 
